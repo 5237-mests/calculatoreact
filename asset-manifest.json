@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculatoreact.git/static/css/main.b65de434.css",
+    "main.js": "/calculatoreact.git/static/js/main.aade0fc3.js",
+    "static/js/787.e062527c.chunk.js": "/calculatoreact.git/static/js/787.e062527c.chunk.js",
+    "index.html": "/calculatoreact.git/index.html",
+    "main.b65de434.css.map": "/calculatoreact.git/static/css/main.b65de434.css.map",
+    "main.aade0fc3.js.map": "/calculatoreact.git/static/js/main.aade0fc3.js.map",
+    "787.e062527c.chunk.js.map": "/calculatoreact.git/static/js/787.e062527c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65de434.css",
+    "static/js/main.aade0fc3.js"
+  ]
+}
